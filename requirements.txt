@@ -139,7 +139,7 @@ pydantic_core==2.14.3
 pydeck==0.8.1b0
 pydyf==0.8.0
 pyee==11.0.1
-Pygments==2.13.0
+Pygments==2.15.0
 PyMuPDF==1.23.6
 PyMuPDFb==1.23.6
 pyparsing==3.0.9
