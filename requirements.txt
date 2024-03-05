@@ -39,7 +39,7 @@ duckduckgo_search==4.1.1
 entrypoints==0.4
 exceptiongroup==1.2.0
 executing==1.1.1
-fastapi==0.104.1
+fastapi==0.109.1
 fastjsonschema==2.16.2
 feedparser==6.0.10
 filelock==3.13.1
